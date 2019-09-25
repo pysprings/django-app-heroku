@@ -2,7 +2,7 @@
 name = "pysprings-app"
 version = "0.1.0"
 description = ""
-authors = ["Ryan Freckleton <rfreckleton@gitprime.com>"]
+authors = ["Ryan Freckleton <ryan.freckleton@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
