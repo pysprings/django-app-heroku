@@ -10,12 +10,6 @@ repos:
   - id: check-added-large-files
 - repo: local
   hooks:
-  - id: lock-req
-    name: lock requirements
-    entry: dephell deps convert
-    language: system
-    types: [toml]
-    pass_filenames: false
   - id: lock-poetry
     name: lock poetry
     entry: poetry lock
