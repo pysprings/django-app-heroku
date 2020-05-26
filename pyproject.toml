@@ -5,7 +5,7 @@ description = ""
 authors = ["Ryan Freckleton <ryan.freckleton@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "3.7.2"
 django = "^2.2"
 gunicorn = "^19.9"
 django-heroku = "^0.3.1"
